@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "935528461454",
+    "project_id": "srp-24-f9291",
+    "storage_bucket": "srp-24-f9291.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:935528461454:android:4088b35792a95dbced45df",
+        "android_client_info": {
+          "package_name": "com.qpulse"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAC_8yqKUxI8pF81_hjtccV09znaBa8hbI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
